@@ -8,6 +8,7 @@ See [default text](https://github.com/Me/Mod/default.json) and [translation guid
 language | translations | status
 -------- | ------------ | ------
 ~~Example~~ | ~~[example](https://github.com/Me/Mod/example.json)~~ | [added](https://github.com/Me/Mod/pull/1) (thanks to EXAMPLE)
+Chinese | | missing
 French | | missing
 German | | missing
 Hungarian | | missing
