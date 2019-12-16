@@ -3,7 +3,7 @@
 **[Mod Name](http://example.com/mod)** [mod description here]
 
 ## Requested translations
-See [default text](https://github.com/Me/Mod/default.json) and [translation guide](https://stardewvalleywiki.com/Modding:Translations). These translations are requested:
+See [default text](https://github.com/Me/Mod/default.json) and the [translation guide](https://stardewvalleywiki.com/Modding:Translations). These translations are requested:
 
 <!--
 
@@ -31,11 +31,11 @@ For a translation completed after the ticket was created:
 - [ ] Spanish (missing)
 - [ ] Turkish (missing)
 
-Here's where the translations appear:
-* **TODO**
+## Where translations appear in-game
+**TODO**: a brief summary of where translations appear, optionally with screenshots to provide context.
 
 ## Credit
-**TODO**
+**TODO**: do you credit translators in release notes, or somewhere else? Specify here!
 
 ## See also
 * [source code](https://github.com/Me/Mod)
