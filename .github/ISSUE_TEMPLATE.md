@@ -5,20 +5,31 @@
 ## Requested translations
 See [default text](https://github.com/Me/Mod/default.json) and [translation guide](https://stardewvalleywiki.com/Modding:Translations). These translations are requested:
 
-language | translations | status
--------- | ------------ | ------
-~~Example~~ | ~~[example](https://github.com/Me/Mod/example.json)~~ | [added](https://github.com/Me/Mod/pull/1) (thanks to EXAMPLE)
-Chinese | | missing
-French | | missing
-German | | missing
-Hungarian | | missing
-Italian | | missing
-Japanese | | missing
-Korean | | missing
-Portuguese | | missing
-Russian | | missing
-Spanish| | missing
-Turkish | | missing
+<!--
+
+
+For a missing translation:
+   - [ ] Chinese (missing)
+
+For a partial translation:
+   - [ ] [Chinese](https://github.com/Me/Mod/zh.json) (incomplete)
+
+For a translation completed after the ticket was created:
+   - [ ] ~[Chinese](https://github.com/Me/Mod/zh.json)~ (added thanks to @username!)
+
+
+-->
+- [ ] Chinese (missing)
+- [ ] French (missing)
+- [ ] German (missing)
+- [ ] Hungarian (missing)
+- [ ] Italian (missing)
+- [ ] Japanese (missing)
+- [ ] Korean (missing)
+- [ ] Portuguese (missing)
+- [ ] Russian (missing)
+- [ ] Spanish (missing)
+- [ ] Turkish (missing)
 
 Here's where the translations appear:
 * **TODO**
