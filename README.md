@@ -14,6 +14,7 @@ This repo lets modders request translations for their mods, and lets translators
   * [Portuguese](https://github.com/StardewModders/mod-translations/labels/needs%3A%20Portuguese)
   * [Russian](https://github.com/StardewModders/mod-translations/labels/needs%3A%20Russian)
   * [Spanish](https://github.com/StardewModders/mod-translations/labels/needs%3A%20Spanish)
+  * [Turkish](https://github.com/StardewModders/mod-translations/labels/needs%3A%20Turkish)
 
 ## For modders
 See the [translation guide](https://stardewvalleywiki.com/Modding:Translations) for more info about enabling and requesting translations.
